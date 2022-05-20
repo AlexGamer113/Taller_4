@@ -1,0 +1,13 @@
+C:\Users\eduar\Desktop\Programas De C#\Taller_4\Taller_4\bin\Debug\Taller_4.exe.config
+C:\Users\eduar\Desktop\Programas De C#\Taller_4\Taller_4\bin\Debug\Taller_4.exe
+C:\Users\eduar\Desktop\Programas De C#\Taller_4\Taller_4\bin\Debug\Taller_4.pdb
+C:\Users\eduar\Desktop\Programas De C#\Taller_4\Taller_4\obj\Debug\Taller_4.csproj.AssemblyReference.cache
+C:\Users\eduar\Desktop\Programas De C#\Taller_4\Taller_4\obj\Debug\Taller_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\eduar\Desktop\Programas De C#\Taller_4\Taller_4\obj\Debug\Taller_4.Properties.Resources.resources
+C:\Users\eduar\Desktop\Programas De C#\Taller_4\Taller_4\obj\Debug\Taller_4.csproj.GenerateResource.cache
+C:\Users\eduar\Desktop\Programas De C#\Taller_4\Taller_4\obj\Debug\Taller_4.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Desktop\Programas De C#\Taller_4\Taller_4\obj\Debug\Taller_4.exe
+C:\Users\eduar\Desktop\Programas De C#\Taller_4\Taller_4\obj\Debug\Taller_4.pdb
+C:\Users\eduar\Desktop\Programas De C#\Taller_4\Taller_4\obj\Debug\Taller_4.frmLogin.resources
+C:\Users\eduar\Desktop\Programas De C#\Taller_4\Taller_4\obj\Debug\Taller_4.frmCrear.resources
+C:\Users\eduar\Desktop\Programas De C#\Taller_4\Taller_4\obj\Debug\Taller_4.frmPrincipal.resources
